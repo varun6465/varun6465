@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varun6465&label=Profile%20views&color=0e75b6&style=flat" alt="varun6465" /> </p>
 
-<p align="left"> <a href="https://twitter.com/varunrupani6465" target="blank"><img src="https://img.shields.io/twitter/follow/varunrupani6465?logo=twitter&style=for-the-badge" alt="varunrupani6465" /></a> </p>
+<p align="left"> <a href="https://twitter.com/varun6465" target="blank"><img src="https://img.shields.io/twitter/follow/varun6465?logo=twitter&style=for-the-badge" alt="varunrupani6465" /></a> </p>
 
 - 🌱 I’m currently learning **Devsecops**
 
