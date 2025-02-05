@@ -1,7 +1,7 @@
 [![MasterHead](https://proseful.imgix.net/blogs/df373414-e77c-4d3d-8c7b-35cf55f23396/images/43bc1e57-5fef-4460-bf08-4f79f3654555.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm varun</h1>
 <h3 align="center">A passionate Cloud engineer from India</h3>
-<img align="right" alt="coding" width="400" src="https://tenor.com/view/beavis-beavis-and-butthead-butthead-typing-coding-gif-13458971254021621452">
+<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmg1ejJzdG1vcXR2bWcxb3Rkemp6bGhmcnBjNmpmaDh5bHdldmVraiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6Ztb8w8H1ckNzVFS/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varun6465&label=Profile%20views&color=0e75b6&style=flat" alt="varun6465" /> </p>
 
